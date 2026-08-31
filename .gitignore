@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+anonymized_doppler_data.csv

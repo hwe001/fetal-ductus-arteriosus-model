@@ -1,0 +1,15 @@
+patient_id,PS_mean_cms,PS_sd,ED_mean_cms,ED_sd,SD_ratio_mean,SD_ratio_sd,PI_mean,PI_sd
+# This file shows the COLUMN SCHEMA ONLY -- no real values. The actual
+# deidentified per-patient dataset used in this study's multivariate
+# analyses (Sections 2.6/3.3 of the manuscript) is NOT included in this
+# public repository: its release is subject to institutional ethics and
+# data-governance approval (Chongqing Health Center for Women and Children)
+# that had not been obtained as of this repository's publication. See
+# docs/model_plan_and_literature_data.md Sections 20/22/25 and the
+# manuscript's Data Availability statement for the full account, including
+# how the twelve sign corrections documented in the manuscript's Table S1
+# were derived from the original clinical spreadsheet.
+#
+# Aggregate, non-identifying cohort statistics (the means/SDs actually used
+# as the model's zero-fitting comparison targets) ARE included: see
+# validation_targets.json in this same folder.

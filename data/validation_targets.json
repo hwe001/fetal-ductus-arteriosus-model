@@ -1,0 +1,16 @@
+{
+  "PS_mean_cms": 41.32,
+  "PS_sd_cms": 12.49,
+  "ED_mean_cms": 13.05,
+  "ED_sd_cms": 7.95,
+  "SD_ratio_mean": 3.85,
+  "SD_ratio_sd": 1.0,
+  "PI_mean": 2.15,
+  "PI_sd": 0.63,
+  "n_patients_with_PS_ED_PI": 23,
+  "n_patients_with_SD_ratio": 22,
+  "n_patients_total": 29,
+  "source": "Anonymized cohort, DA related values.xlsx 'Modified Data' section (outlier-adjusted), Chongqing Health Center for Women and Children / Children's Hospital of Chongqing Medical University.",
+  "note": "Patient names replaced with PatientNN IDs per PII policy; no identifying information retained.",
+  "correction": "Previous version of this file incorrectly stated n_patients_with_data=24 (a bookkeeping error, not a data error) -- corrected per reviewer round-4 audit. The true count is 23 for PS/ED/PI (one patient, Patient12, has PS/ED/PI but no S/D value -- a pre-existing gap in the original clinical spreadsheet, not introduced by anonymization), so n=22 for S/D specifically. All four target means/SDs above are confirmed to exactly reproduce the original xlsx's own SUMMARY row when computed with the correct per-index denominator (22 for S/D, 23 for the other three) -- see model_plan_and_literature_data.md Section 20 for the full reconciliation, including why mean(PS)/mean(ED)=3.17 does not equal mean(S/D)=3.85 (Jensen's-inequality-type averaging artifact, not an error)."
+}
