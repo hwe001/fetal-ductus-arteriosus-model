@@ -1,0 +1,58 @@
+[bisect] q_mean=0.2500 base_frac=0.50 kappa=+0.00 stiff=0.0100 -> PS=49.0 ED=8.2 SD=6.00 PI=2.70 score=1.37
+[bisect] q_mean=0.1750 base_frac=0.50 kappa=+0.00 stiff=0.0100 -> PS=36.9 ED=5.8 SD=6.34 PI=2.82 score=1.62
+[bisect] q_mean=0.2125 base_frac=0.50 kappa=+0.00 stiff=0.0100 -> PS=43.2 ED=7.0 SD=6.17 PI=2.76 score=1.39
+[bisect] q_mean=0.1937 base_frac=0.50 kappa=+0.00 stiff=0.0100 -> PS=40.1 ED=6.4 SD=6.25 PI=2.79 score=1.46
+[bisect] q_mean=0.2031 base_frac=0.50 kappa=+0.00 stiff=0.0100 -> PS=41.7 ED=6.7 SD=6.21 PI=2.77 score=1.40
+
+==> calibrated Q_MEAN = 0.1984 cm^3/s
+
+[grid] q_mean=0.1984 base_frac=0.20 kappa=-0.30 stiff=0.0050 -> PS=57.9 ED=2.7 SD=21.35 PI=3.98 score=6.59
+[grid] q_mean=0.1984 base_frac=0.35 kappa=-0.30 stiff=0.0050 -> PS=50.7 ED=4.7 SD=10.85 PI=3.37 score=3.26
+[grid] q_mean=0.1984 base_frac=0.50 kappa=-0.30 stiff=0.0050 -> PS=42.9 ED=6.6 SD=6.51 PI=2.71 score=1.49
+[grid] q_mean=0.1984 base_frac=0.65 kappa=-0.30 stiff=0.0050 -> PS=34.7 ED=8.5 SD=4.08 PI=1.99 score=0.65
+[grid] q_mean=0.1984 base_frac=0.20 kappa=-0.30 stiff=0.0100 -> PS=61.7 ED=2.7 SD=22.51 PI=4.43 score=7.19
+[grid] q_mean=0.1984 base_frac=0.35 kappa=-0.30 stiff=0.0100 -> PS=53.6 ED=4.7 SD=11.37 PI=3.70 score=3.61
+[grid] q_mean=0.1984 base_frac=0.50 kappa=-0.30 stiff=0.0100 -> PS=45.1 ED=6.7 SD=6.76 PI=2.93 score=1.70
+[grid] q_mean=0.1984 base_frac=0.65 kappa=-0.30 stiff=0.0100 -> PS=36.1 ED=8.6 SD=4.20 PI=2.11 score=0.58
+[grid] q_mean=0.1984 base_frac=0.20 kappa=-0.30 stiff=0.0200 -> PS=64.9 ED=2.8 SD=23.34 PI=3.56 score=7.08
+[grid] q_mean=0.1984 base_frac=0.35 kappa=-0.30 stiff=0.0200 -> PS=56.0 ED=4.8 SD=11.75 PI=3.09 score=3.48
+[grid] q_mean=0.1984 base_frac=0.50 kappa=-0.30 stiff=0.0200 -> PS=46.8 ED=6.7 SD=6.95 PI=2.55 score=1.60
+[grid] q_mean=0.1984 base_frac=0.65 kappa=-0.30 stiff=0.0200 -> PS=37.2 ED=8.7 SD=4.28 PI=1.91 score=0.66
+[grid] q_mean=0.1984 base_frac=0.20 kappa=+0.00 stiff=0.0050 -> PS=49.4 ED=2.7 SD=18.38 PI=3.93 score=5.59
+[grid] q_mean=0.1984 base_frac=0.35 kappa=+0.00 stiff=0.0050 -> PS=43.9 ED=4.6 SD=9.55 PI=3.25 score=2.70
+[grid] q_mean=0.1984 base_frac=0.50 kappa=+0.00 stiff=0.0050 -> PS=37.8 ED=6.4 SD=5.87 PI=2.57 score=1.31
+[grid] q_mean=0.1984 base_frac=0.65 kappa=+0.00 stiff=0.0050 -> PS=31.2 ED=8.2 SD=3.78 PI=1.87 score=0.76
+[grid] q_mean=0.1984 base_frac=0.20 kappa=+0.00 stiff=0.0100 -> PS=54.4 ED=2.7 SD=19.97 PI=4.29 score=6.29
+[grid] q_mean=0.1984 base_frac=0.35 kappa=+0.00 stiff=0.0100 -> PS=47.9 ED=4.7 SD=10.27 PI=3.54 score=3.12
+[grid] q_mean=0.1984 base_frac=0.50 kappa=+0.00 stiff=0.0100 -> PS=40.9 ED=6.6 SD=6.23 PI=2.78 score=1.42
+[grid] q_mean=0.1984 base_frac=0.65 kappa=+0.00 stiff=0.0100 -> PS=33.3 ED=8.4 SD=3.95 PI=2.00 score=0.65
+[grid] q_mean=0.1984 base_frac=0.20 kappa=+0.00 stiff=0.0200 -> PS=58.8 ED=2.8 SD=21.25 PI=3.53 score=6.37
+[grid] q_mean=0.1984 base_frac=0.35 kappa=+0.00 stiff=0.0200 -> PS=51.3 ED=4.7 SD=10.86 PI=3.03 score=3.11
+[grid] q_mean=0.1984 base_frac=0.50 kappa=+0.00 stiff=0.0200 -> PS=43.4 ED=6.7 SD=6.52 PI=2.47 score=1.39
+[grid] q_mean=0.1984 base_frac=0.65 kappa=+0.00 stiff=0.0200 -> PS=35.0 ED=8.6 SD=4.09 PI=1.85 score=0.70
+[grid] q_mean=0.1984 base_frac=0.20 kappa=+0.30 stiff=0.0050 -> PS=39.5 ED=2.6 SD=14.96 PI=3.81 score=4.50
+[grid] q_mean=0.1984 base_frac=0.35 kappa=+0.30 stiff=0.0050 -> PS=35.7 ED=4.5 SD=8.00 PI=3.05 score=2.29
+[grid] q_mean=0.1984 base_frac=0.50 kappa=+0.30 stiff=0.0050 -> PS=31.4 ED=6.2 SD=5.07 PI=2.36 score=1.18
+[grid] q_mean=0.1984 base_frac=0.65 kappa=+0.30 stiff=0.0050 -> PS=26.5 ED=7.8 SD=3.38 PI=1.69 score=1.09
+[grid] q_mean=0.1984 base_frac=0.20 kappa=+0.30 stiff=0.0100 -> PS=45.2 ED=2.7 SD=16.79 PI=4.00 score=5.11
+[grid] q_mean=0.1984 base_frac=0.35 kappa=+0.30 stiff=0.0100 -> PS=40.4 ED=4.6 SD=8.85 PI=3.25 score=2.48
+[grid] q_mean=0.1984 base_frac=0.50 kappa=+0.30 stiff=0.0100 -> PS=35.2 ED=6.4 SD=5.52 PI=2.53 score=1.27
+[grid] q_mean=0.1984 base_frac=0.65 kappa=+0.30 stiff=0.0100 -> PS=29.3 ED=8.1 SD=3.61 PI=1.82 score=0.89
+[grid] q_mean=0.1984 base_frac=0.20 kappa=+0.30 stiff=0.0200 -> PS=50.6 ED=2.7 SD=18.43 PI=3.47 score=5.42
+[grid] q_mean=0.1984 base_frac=0.35 kappa=+0.30 stiff=0.0200 -> PS=44.8 ED=4.7 SD=9.62 PI=2.93 score=2.59
+[grid] q_mean=0.1984 base_frac=0.50 kappa=+0.30 stiff=0.0200 -> PS=38.6 ED=6.5 SD=5.91 PI=2.36 score=1.20
+[grid] q_mean=0.1984 base_frac=0.65 kappa=+0.30 stiff=0.0200 -> PS=31.7 ED=8.3 SD=3.80 PI=1.75 score=0.79
+[grid] q_mean=0.1984 base_frac=0.20 kappa=+0.60 stiff=0.0050 -> PS=27.2 ED=2.5 SD=10.71 PI=3.41 score=3.52
+[grid] q_mean=0.1984 base_frac=0.35 kappa=+0.60 stiff=0.0050 -> PS=25.1 ED=4.2 SD=6.00 PI=2.60 score=1.84
+[grid] q_mean=0.1984 base_frac=0.50 kappa=+0.60 stiff=0.0050 -> PS=22.6 ED=5.7 SD=3.99 PI=1.95 score=1.15
+[grid] q_mean=0.1984 base_frac=0.65 kappa=+0.60 stiff=0.0050 -> PS=19.7 ED=7.0 SD=2.81 PI=1.37 score=1.62
+[grid] q_mean=0.1984 base_frac=0.20 kappa=+0.60 stiff=0.0100 -> PS=32.7 ED=2.6 SD=12.50 PI=3.40 score=3.84
+[grid] q_mean=0.1984 base_frac=0.35 kappa=+0.60 stiff=0.0100 -> PS=29.9 ED=4.3 SD=6.87 PI=2.68 score=1.98
+[grid] q_mean=0.1984 base_frac=0.50 kappa=+0.60 stiff=0.0100 -> PS=26.6 ED=6.0 SD=4.47 PI=2.06 score=1.10
+[grid] q_mean=0.1984 base_frac=0.65 kappa=+0.60 stiff=0.0100 -> PS=22.9 ED=7.5 SD=3.07 PI=1.48 score=1.39
+[grid] q_mean=0.1984 base_frac=0.20 kappa=+0.60 stiff=0.0200 -> PS=38.4 ED=2.7 SD=14.29 PI=3.32 score=4.12
+[grid] q_mean=0.1984 base_frac=0.35 kappa=+0.60 stiff=0.0200 -> PS=34.7 ED=4.5 SD=7.73 PI=2.71 score=2.08
+[grid] q_mean=0.1984 base_frac=0.50 kappa=+0.60 stiff=0.0200 -> PS=30.6 ED=6.2 SD=4.94 PI=2.13 score=1.08
+[grid] q_mean=0.1984 base_frac=0.65 kappa=+0.60 stiff=0.0200 -> PS=25.9 ED=7.8 SD=3.31 PI=1.56 score=1.19
+
+==> BEST: (np.float64(0.5779436492426541), -0.3, 0.01, 0.65, {'PS': np.float64(36.08325188484434), 'ED': np.float64(8.595819785210185), 'SD': np.float64(4.197767378386473), 'PI': np.float64(2.107942631226642), 'u_mean': np.float64(13.039933673924903)})

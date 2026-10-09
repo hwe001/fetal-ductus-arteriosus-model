@@ -1,0 +1,46 @@
+[bisect] q_mean=0.3750 pulse=0.80 kappa=+0.00 stiff=0.0100 -> PS=43.6 ED=8.5 SD=5.11 PI=1.57 score=1.00
+[bisect] q_mean=0.2625 pulse=0.80 kappa=+0.00 stiff=0.0100 -> PS=32.6 ED=6.0 SD=5.39 PI=1.66 score=1.38
+[bisect] q_mean=0.3187 pulse=0.80 kappa=+0.00 stiff=0.0100 -> PS=38.3 ED=7.3 SD=5.26 PI=1.62 score=1.13
+[bisect] q_mean=0.3469 pulse=0.80 kappa=+0.00 stiff=0.0100 -> PS=41.0 ED=7.9 SD=5.20 PI=1.59 score=1.01
+[bisect] q_mean=0.3609 pulse=0.80 kappa=+0.00 stiff=0.0100 -> PS=42.3 ED=8.2 SD=5.16 PI=1.58 score=1.00
+
+==> calibrated Q_MEAN = 0.3539 cm^3/s
+
+[grid] q_mean=0.3539 pulse=0.50 kappa=-0.30 stiff=0.0050 -> PS=36.0 ED=13.4 SD=2.68 PI=0.99 score=1.01
+[grid] q_mean=0.3539 pulse=0.80 kappa=-0.30 stiff=0.0050 -> PS=43.7 ED=8.1 SD=5.41 PI=1.51 score=1.14
+[grid] q_mean=0.3539 pulse=1.10 kappa=-0.30 stiff=0.0050 -> PS=50.9 ED=2.4 SD=20.82 PI=2.00 score=5.53
+[grid] q_mean=0.3539 pulse=0.50 kappa=-0.30 stiff=0.0100 -> PS=37.5 ED=13.8 SD=2.73 PI=1.04 score=0.95
+[grid] q_mean=0.3539 pulse=0.80 kappa=-0.30 stiff=0.0100 -> PS=45.9 ED=8.3 SD=5.54 PI=1.64 score=1.16
+[grid] q_mean=0.3539 pulse=1.10 kappa=-0.30 stiff=0.0100 -> PS=53.9 ED=2.6 SD=20.56 PI=2.20 score=5.47
+[grid] q_mean=0.3539 pulse=0.50 kappa=-0.30 stiff=0.0200 -> PS=38.7 ED=13.9 SD=2.79 PI=1.01 score=0.93
+[grid] q_mean=0.3539 pulse=0.80 kappa=-0.30 stiff=0.0200 -> PS=47.7 ED=8.2 SD=5.80 PI=1.54 score=1.31
+[grid] q_mean=0.3539 pulse=1.10 kappa=-0.30 stiff=0.0200 -> PS=56.4 ED=2.5 SD=22.85 PI=2.01 score=6.17
+[grid] q_mean=0.3539 pulse=0.50 kappa=+0.00 stiff=0.0050 -> PS=32.3 ED=12.9 SD=2.51 PI=0.93 score=1.15
+[grid] q_mean=0.3539 pulse=0.80 kappa=+0.00 stiff=0.0050 -> PS=38.5 ED=7.9 SD=4.88 PI=1.45 score=1.05
+[grid] q_mean=0.3539 pulse=1.10 kappa=+0.00 stiff=0.0050 -> PS=44.2 ED=2.5 SD=17.72 PI=1.96 score=4.57
+[grid] q_mean=0.3539 pulse=0.50 kappa=+0.00 stiff=0.0100 -> PS=34.5 ED=13.3 SD=2.60 PI=1.00 score=1.04
+[grid] q_mean=0.3539 pulse=0.80 kappa=+0.00 stiff=0.0100 -> PS=41.6 ED=8.0 SD=5.18 PI=1.59 score=1.00
+[grid] q_mean=0.3539 pulse=1.10 kappa=+0.00 stiff=0.0100 -> PS=48.2 ED=2.5 SD=19.41 PI=2.19 score=5.04
+[grid] q_mean=0.3539 pulse=0.50 kappa=+0.00 stiff=0.0200 -> PS=36.4 ED=13.5 SD=2.68 PI=0.97 score=1.01
+[grid] q_mean=0.3539 pulse=0.80 kappa=+0.00 stiff=0.0200 -> PS=44.3 ED=8.1 SD=5.44 PI=1.48 score=1.17
+[grid] q_mean=0.3539 pulse=1.10 kappa=+0.00 stiff=0.0200 -> PS=51.7 ED=2.5 SD=20.74 PI=1.96 score=5.53
+[grid] q_mean=0.3539 pulse=0.50 kappa=+0.30 stiff=0.0050 -> PS=27.5 ED=12.0 SD=2.29 PI=0.85 score=1.42
+[grid] q_mean=0.3539 pulse=0.80 kappa=+0.30 stiff=0.0050 -> PS=32.1 ED=7.6 SD=4.21 PI=1.36 score=1.10
+[grid] q_mean=0.3539 pulse=1.10 kappa=+0.30 stiff=0.0050 -> PS=36.1 ED=2.6 SD=13.69 PI=1.92 score=3.59
+[grid] q_mean=0.3539 pulse=0.50 kappa=+0.30 stiff=0.0100 -> PS=30.3 ED=12.6 SD=2.42 PI=0.93 score=1.24
+[grid] q_mean=0.3539 pulse=0.80 kappa=+0.30 stiff=0.0100 -> PS=35.8 ED=7.8 SD=4.59 PI=1.51 score=1.02
+[grid] q_mean=0.3539 pulse=1.10 kappa=+0.30 stiff=0.0100 -> PS=40.8 ED=2.5 SD=16.01 PI=2.15 score=3.98
+[grid] q_mean=0.3539 pulse=0.50 kappa=+0.30 stiff=0.0200 -> PS=32.9 ED=13.0 SD=2.52 PI=0.91 score=1.13
+[grid] q_mean=0.3539 pulse=0.80 kappa=+0.30 stiff=0.0200 -> PS=39.3 ED=8.0 SD=4.92 PI=1.41 score=1.06
+[grid] q_mean=0.3539 pulse=1.10 kappa=+0.30 stiff=0.0200 -> PS=45.1 ED=2.5 SD=17.80 PI=1.89 score=4.64
+[grid] q_mean=0.3539 pulse=0.50 kappa=+0.60 stiff=0.0050 -> PS=20.6 ED=10.3 SD=1.99 PI=0.72 score=1.86
+[grid] q_mean=0.3539 pulse=0.80 kappa=+0.60 stiff=0.0050 -> PS=23.3 ED=7.0 SD=3.33 PI=1.19 score=1.48
+[grid] q_mean=0.3539 pulse=1.10 kappa=+0.60 stiff=0.0050 -> PS=25.6 ED=2.8 SD=9.20 PI=1.80 score=2.72
+[grid] q_mean=0.3539 pulse=0.50 kappa=+0.60 stiff=0.0100 -> PS=23.8 ED=11.2 SD=2.13 PI=0.80 score=1.64
+[grid] q_mean=0.3539 pulse=0.80 kappa=+0.60 stiff=0.0100 -> PS=27.3 ED=7.3 SD=3.72 PI=1.34 score=1.19
+[grid] q_mean=0.3539 pulse=1.10 kappa=+0.60 stiff=0.0100 -> PS=30.3 ED=2.7 SD=11.24 PI=2.00 score=3.05
+[grid] q_mean=0.3539 pulse=0.50 kappa=+0.60 stiff=0.0200 -> PS=26.9 ED=11.9 SD=2.26 PI=0.81 score=1.47
+[grid] q_mean=0.3539 pulse=0.80 kappa=+0.60 stiff=0.0200 -> PS=31.3 ED=7.6 SD=4.11 PI=1.27 score=1.14
+[grid] q_mean=0.3539 pulse=1.10 kappa=+0.60 stiff=0.0200 -> PS=35.1 ED=2.6 SD=13.28 PI=1.77 score=3.57
+
+==> BEST: (np.float64(0.9295430388879339), -0.3, 0.02, 0.5, {'PS': np.float64(38.7218989252597), 'ED': np.float64(13.860048367545934), 'SD': np.float64(2.793778051736757), 'PI': np.float64(1.0099637110786601), 'u_mean': np.float64(24.61657808592038)})

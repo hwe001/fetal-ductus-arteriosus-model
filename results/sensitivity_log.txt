@@ -1,0 +1,28 @@
+=== baseline ===
+[baseline=0 (+0%)] PS=13.86 ED=5.69 SD=2.43 PI=0.85 grad=5.44mmHg
+[combined_co_ml_min=11.11 (-40%)] PS=7.52 ED=4.45 SD=1.69 PI=0.52 grad=5.16mmHg
+[combined_co_ml_min=14.82 (-20%)] PS=10.57 ED=5.20 SD=2.03 PI=0.69 grad=5.29mmHg
+[combined_co_ml_min=22.23 (+20%)] PS=17.36 ED=5.99 SD=2.90 PI=1.00 grad=5.63mmHg
+[combined_co_ml_min=25.93 (+40%)] PS=21.03 ED=6.14 SD=3.42 PI=1.13 grad=5.83mmHg
+[rv_lv_ratio=0.792 (-40%)] PS=10.18 ED=5.71 SD=1.78 PI=0.59 grad=5.40mmHg
+[rv_lv_ratio=1.056 (-20%)] PS=11.64 ED=5.71 SD=2.04 PI=0.68 grad=5.31mmHg
+[rv_lv_ratio=1.584 (+20%)] PS=16.15 ED=5.67 SD=2.85 PI=1.02 grad=5.62mmHg
+[rv_lv_ratio=1.848 (+40%)] PS=18.10 ED=5.65 SD=3.21 PI=1.15 grad=5.79mmHg
+[shunt_fraction=0.51 (-40%)] PS=8.48 ED=3.61 SD=2.35 PI=0.82 grad=5.36mmHg
+[shunt_fraction=0.68 (-20%)] PS=11.19 ED=4.64 SD=2.41 PI=0.84 grad=5.40mmHg
+[shunt_fraction=1.02 (+20%)] PS=16.48 ED=6.81 SD=2.42 PI=0.84 grad=5.48mmHg
+[shunt_fraction=1.19 (+40%)] PS=19.06 ED=8.00 SD=2.38 PI=0.84 grad=5.51mmHg
+[p_pa_mean_mmhg=19.5 (-40%)] PS=0.07 ED=0.07 SD=1.00 PI=0.00 grad=116.78mmHg
+[p_pa_mean_mmhg=26 (-20%)] PS=0.07 ED=0.07 SD=1.00 PI=0.00 grad=158.78mmHg
+[p_pa_mean_mmhg=39 (+20%)] PS=11.96 ED=7.00 SD=1.71 PI=0.51 grad=11.89mmHg
+[p_pa_mean_mmhg=45.5 (+40%)] PS=11.20 ED=7.81 SD=1.43 PI=0.35 grad=18.29mmHg
+[p_ao_mean_mmhg=16.5 (-40%)] PS=11.99 ED=6.93 SD=1.73 PI=0.53 grad=16.55mmHg
+[p_ao_mean_mmhg=22 (-20%)] PS=12.45 ED=6.43 SD=1.94 PI=0.63 grad=11.02mmHg
+[p_ao_mean_mmhg=33 (+20%)] PS=0.07 ED=0.07 SD=1.00 PI=0.00 grad=196.19mmHg
+[p_ao_mean_mmhg=38.5 (+40%)] PS=0.07 ED=0.07 SD=1.00 PI=0.00 grad=193.60mmHg
+[stiffness_scale=0.006 (-40%)] PS=13.56 ED=10.37 SD=1.31 PI=0.34 grad=5.44mmHg
+[stiffness_scale=0.008 (-20%)] PS=13.73 ED=12.66 SD=1.08 PI=0.11 grad=5.44mmHg
+[stiffness_scale=0.012 (+20%)] PS=13.95 ED=7.33 SD=1.90 PI=0.68 grad=5.44mmHg
+[stiffness_scale=0.014 (+40%)] PS=14.03 ED=9.10 SD=1.54 PI=0.51 grad=5.44mmHg
+
+Done. See sensitivity_results.csv for full table; compute elasticities as (out/base_out - 1) / frac_change.

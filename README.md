@@ -102,6 +102,17 @@ python multivariate_comparison.py    # the canonical multivariate/Mahalanobis re
 same directory as the script -- it will not run without it, by design (no
 placeholder data is substituted).
 
+## Results and logs (`results/`)
+
+Outputs of the analysis scripts, kept so reported numbers can be checked without re-running:
+calibration (`calibration_results*.csv`, `calibration_log*.txt`, `finetune_*`), cross-validation
+(`cross_validation_*`; four folds, one row per fold, observed values are group means of 5-6 held-out
+patients, no individual rows), sensitivity, joint identifiability, PI factorial study, and uncertainty
+propagation (`uncertainty_*`). The scripts write these files to the working directory; here they are
+collected in one folder. They are simulation outputs and cohort-level aggregates only. Two earlier
+calibration stages (`calibration_results.csv`, `calibration_results_v2.csv`) belong to superseded model
+versions and are kept for the record.
+
 ## Data availability
 
 **No patient-level data is included in this repository.** The manuscript's

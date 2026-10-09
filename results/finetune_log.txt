@@ -1,0 +1,28 @@
+  base_frac=0.65 q_mean=0.3000 -> PS=51.91
+  base_frac=0.65 q_mean=0.2250 -> PS=40.37
+  base_frac=0.65 q_mean=0.2625 -> PS=46.24
+  base_frac=0.65 q_mean=0.2437 -> PS=43.33
+  base_frac=0.65 q_mean=0.2344 -> PS=41.85
+  base_frac=0.65 q_mean=0.2297 -> PS=41.11
+==> base_frac=0.65 q_mean_cal=0.2320 -> PS=41.5 ED=10.0 SD=4.15 PI=2.08 score=0.35
+  base_frac=0.75 q_mean=0.3000 -> PS=43.21
+  base_frac=0.75 q_mean=0.2250 -> PS=33.42
+  base_frac=0.75 q_mean=0.2625 -> PS=38.38
+  base_frac=0.75 q_mean=0.2812 -> PS=40.81
+  base_frac=0.75 q_mean=0.2906 -> PS=42.02
+  base_frac=0.75 q_mean=0.2859 -> PS=41.42
+==> base_frac=0.75 q_mean_cal=0.2836 -> PS=41.1 ED=13.9 SD=2.96 PI=1.48 score=0.61
+  base_frac=0.80 q_mean=0.3000 -> PS=38.69
+  base_frac=0.80 q_mean=0.3750 -> PS=47.10
+  base_frac=0.80 q_mean=0.3375 -> PS=42.95
+  base_frac=0.80 q_mean=0.3187 -> PS=40.83
+  base_frac=0.80 q_mean=0.3281 -> PS=41.89
+  base_frac=0.80 q_mean=0.3234 -> PS=41.36
+==> base_frac=0.80 q_mean_cal=0.3211 -> PS=41.1 ED=16.6 SD=2.47 PI=1.18 score=1.09
+  base_frac=0.85 q_mean=0.3000 -> PS=34.04
+  base_frac=0.85 q_mean=0.3750 -> PS=41.56
+  base_frac=0.85 q_mean=0.3375 -> PS=37.84
+  base_frac=0.85 q_mean=0.3563 -> PS=39.71
+  base_frac=0.85 q_mean=0.3656 -> PS=40.63
+  base_frac=0.85 q_mean=0.3703 -> PS=41.10
+==> base_frac=0.85 q_mean_cal=0.3727 -> PS=41.3 ED=20.3 SD=2.04 PI=0.89 score=1.61

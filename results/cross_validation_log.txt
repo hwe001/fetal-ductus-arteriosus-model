@@ -1,0 +1,6 @@
+fold 0: n_train=17 n_test=6 q_mean_cal=0.2367 (train PS target=41.5) -> sim PS=42.2 ED=10.2 SD=4.12 PI=2.06 | held-out obs PS=40.9 ED=13.9 SD=3.60 PI=1.83
+fold 1: n_train=17 n_test=6 q_mean_cal=0.2258 (train PS target=40.4) -> sim PS=40.5 ED=9.9 SD=4.11 PI=2.06 | held-out obs PS=43.8 ED=16.1 SD=4.12 PI=2.13
+fold 2: n_train=17 n_test=6 q_mean_cal=0.2367 (train PS target=42.9) -> sim PS=42.2 ED=10.2 SD=4.12 PI=2.06 | held-out obs PS=36.9 ED=11.6 SD=3.80 PI=2.24
+fold 3: n_train=18 n_test=5 q_mean_cal=0.2258 (train PS target=40.6) -> sim PS=40.5 ED=9.9 SD=4.11 PI=2.06 | held-out obs PS=44.0 ED=10.1 SD=3.89 PI=2.47
+
+Done. See cross_validation_results.csv.
