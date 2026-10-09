@@ -42,9 +42,26 @@ the gestational window, not the method.**
   modelling *[full text]*. May et al. 2023 (WIREs Mech Dis) review fetus-to-neonate modelling
   *[abstract-level only; read before citing]*.
 
+- **Huikeshoven & Jongsma 1985**: fetal cardiovascular model used to simulate *premature closure* of
+  the DA; the simulated changes resemble those after indomethacin in animal experiments, suggesting
+  the central cardiovascular effects of indomethacin can be attributed to ductal closure. *[abstract]*
+  Earliest model of the constriction scenario found; must be cited and compared. (Model structure
+  not read; it refers to a "previously validated" fetal model.)
+- **Setchi, Mestel, Siggers, Parker, Tan, Wong 2013 (J Math Biol)**: analytical model (complex
+  potential theory, conformal mapping, Fourier series) of flow through the *patent* DA in three
+  idealised geometries, with healthy-adult boundary conditions. Predicts aortic/PA pressure
+  equalisation, higher shear at the shunt edges, possible backflow. *[abstract]* Postnatal PDA,
+  not fetal, not lumped, not validated against Doppler.
+- **Spach et al. 1980 (Circulation)**: measured pulsatile aortopulmonary pressure-flow dynamics in
+  patients with PDA. *[bibliographic record only; no abstract retrieved]* Postnatal measurement study.
+- **Prior art for the DA-focused lumped approach (summary):** none found that is DA-focused,
+  lumped, and validated against DA Doppler indices; closest are Pennati 1997 (DA is one of 19
+  compartments), Villanueva-Baxarias 2025 (DA as R-L-C + Bernoulli in a coarctation model) and
+  Huikeshoven 1985 (closure scenario).
+
 **Gap claimable (to our knowledge):** all fetal circulation models found target >=20 weeks and treat
 the DA as one element among many; none targets the DA waveform at ~13 weeks. Re-run and document
-the search before submission.
+the search before submission (searches so far were title-level queries in Europe PMC).
 
 ### 2.2 DA Doppler measurement and reference data
 - **Brezinka, Huisman, Stijnen, Wladimiroff 1992**: 298 women, 9-25 wk; first usable recordings at
@@ -138,3 +155,14 @@ the search before submission.
 30. Wen J, Guo X, Cai S, Xu D, Zhang G, Bai X. Fetal ductus arteriosus premature constriction. Int Heart J 2022;63:722-728. doi:10.1536/ihj.21-723. PMID 35831144.
 31. Ma J, Cao H, Hong L, et al. Cardiac function assessment in fetuses with ductus arteriosus constriction: a two-dimensional echocardiography and FetalHQ study. Front Cardiovasc Med 2022. doi:10.3389/fcvm.2022.868675. PMID 35958395.
 32. Sridharan S, Archer N, Manning N. Premature constriction of the fetal ductus arteriosus following the maternal consumption of camomile herbal tea. Ultrasound Obstet Gynecol 2009;34:358-359. doi:10.1002/uog.6453. PMID 19705407.
+33. Huikeshoven FJ, Jongsma HW. Cardiovascular changes due to premature closure of the ductus arteriosus: a mathematical model. Eur J Obstet Gynecol Reprod Biol 1985;20:305-310. doi:10.1016/0028-2243(85)90141-8. PMID 3935497.
+34. Setchi A, Mestel AJ, Siggers JH, Parker KH, Tan MW, Wong K. Mathematical model of flow through the patent ductus arteriosus. J Math Biol 2013;67:1487-1506. doi:10.1007/s00285-012-0596-8. PMID 23053537.
+35. Spach MS, Serwer GA, Anderson PA, Canent RV, Levin AR. Pulsatile aortopulmonary pressure-flow dynamics of patent ductus arteriosus in patients with various hemodynamic states. Circulation 1980;61:110-122. doi:10.1161/01.cir.61.1.110. PMID 7349924.
+
+### Postnatal PDA prediction literature (context for the late-pregnancy extension; titles only, not read)
+36. Villamor-Martinez E, Kilani MA, Degraeuwe PL, Clyman RI, Villamor E. Intrauterine growth restriction and patent ductus arteriosus in very and extremely preterm infants: a systematic review and meta-analysis. Front Endocrinol 2019;10:58. doi:10.3389/fendo.2019.00058. PMID 30800098.
+37. Park HW, Choi YS, Kim KS, Kim SN. Chorioamnionitis and patent ductus arteriosus: a systematic review and meta-analysis. PLoS One 2015;10:e0138114. doi:10.1371/journal.pone.0138114. PMID 26375582.
+38. Behbodi E, Villamor-Martinez E, Degraeuwe PL, Villamor E. Chorioamnionitis appears not to be a risk factor for patent ductus arteriosus in preterm infants: a systematic review and meta-analysis. Sci Rep 2016;6:37967. doi:10.1038/srep37967. PMID 27892517.
+39. Lee JA, Sohn JA, Oh S, Choi BM. Perinatal risk factors of symptomatic preterm patent ductus arteriosus and secondary ligation. Pediatr Neonatol 2020;61:439-446. doi:10.1016/j.pedneo.2020.03.016. PMID 32362475.
+
+No study was found that uses fetal DA Doppler to predict postnatal PDA (title-level search only).
